@@ -517,6 +517,8 @@ class Gradient {
 * Gradient.toggleColor(index)
 * Gradient.updateFrequency(freq)
 */
+//var gradient = new Gradient();
+//gradient.initGradient("#gradient-canvas");
 
 var gradient = new Gradient();
 //gradient.amp = 400;
